@@ -1,4 +1,4 @@
-# Data_Visualization
+# Tata Job Simulation
 ## Introduction
 An online retail store has hired me as a consultant to review its data and provide insights to the CEO and CMO. They are interested in viewing the metrics from both an operations and marketing perspective with the intention of expanding the business.     
 
